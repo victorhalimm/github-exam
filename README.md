@@ -1,7 +1,7 @@
 # Hotel del jojo
 Selamat datang di Hotel del jojo
 
-Berikut adalah harga dari kamar-kamar yang kami punya:__
+Berikut adalah harga dari kamar-kamar yang kami punya:  
 Format: No, Tipe Kamar, Harga
 
 1. Pantai 3,000,0000
